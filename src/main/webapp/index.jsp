@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Junit Test
+		<center><h2>JUNIT CODE COVERAGE - Integrated With CI Jenkins </h2></center>
 </body>
 </html>
