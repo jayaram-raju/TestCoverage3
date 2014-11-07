@@ -62,16 +62,17 @@
 					</webResources>
 				</configuration>
 			</plugin>
-		</plugins>
-		<plugin>
-			<groupId>com.mindtree</groupId>
-			<artifactId>azureBlobUpload</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<plugin>
+				<groupId>com.mindtree</groupId>
+				<artifactId>azureBlobUpload</artifactId>
+				<version>0.0.1-SNAPSHOT</version>
 				<configuration>
 					<storageAccountName>${user.storageAccountName}</storageAccountName>
 					<accessKey>${user.accessKey}</accessKey>
 				</configuration>
-		</plugin>
+			</plugin>
+		</plugins>
+	
 		<finalName>TestCoverage_3</finalName>
 	</build>
 	<dependencies>
