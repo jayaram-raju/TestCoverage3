@@ -51,15 +51,15 @@
 				<version>2.3</version>
 				<configuration>
 
-					<webappDirectory>/src/main/webapp</webappDirectory>
+					<webappDirectory>src/main/webapp</webappDirectory>
 					<!-- <webXml>/src/main/webapp</webXml> -->
-					<webResources>
+				<!--	<webResources>
 						<resource>
 							<directory>
-								/src/main/resources/
+								src/main/resources/
 							</directory>
 						</resource>
-					</webResources>
+					</webResources>-->
 				</configuration>
 			</plugin>
 			<plugin>
